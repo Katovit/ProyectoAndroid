@@ -1,5 +1,5 @@
 # ProyectoAndroid
-Repositorio con la práctica final implementada por:
+Repositorio con la práctica final (Fork de Android-NPI) implementada por:
 Antonio Doncel Campos
 Hugo Mario Lupión Fernández
 
